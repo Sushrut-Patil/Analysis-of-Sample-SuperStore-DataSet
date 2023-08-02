@@ -7,6 +7,7 @@ This project is an analysis of the Sample SuperStore dataset . The goal of this 
 ## Getting Started
 
 To get started with this project, you'll need to have access to Google Colab. You can access the project by clicking on the link provided in the repository.
+https://colab.research.google.com/drive/1dnR8ZCgNg1Z7HVSobqFeysfKEfw1DfT9?usp=sharing
 
 ## Data
 
